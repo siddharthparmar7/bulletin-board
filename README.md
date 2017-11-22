@@ -6,7 +6,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-Below you will find some information on how to perform common tasks.<br>
+Below you will find some information on how to perform common tasks.
+
 - To Run this project on your machine 
 - 1. clone this repository to your machine 
 - 2. And run these commands from the same dir.
@@ -22,7 +23,7 @@ Just fetching some values from the API server to display sticky notes on the scr
 - create new sticky notes
 - edit sticky notes
 - delete sticky notes
-<br>
+
 
 # contact
 Please contact siddharthParmar7@gmail.com for any feedback or questions.
