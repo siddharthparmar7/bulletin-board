@@ -9,10 +9,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Below you will find some information on how to perform common tasks.
 
 - To Run this project on your machine 
-- 1. clone this repository to your machine 
-- 2. And run these commands from the same dir.
-- 3. npm install
-- 4. npm start
+- clone this repository to your machine 
+- And run these commands from the same dir.
+- npm install
+- npm start
 
 ## Table of Contents
 
